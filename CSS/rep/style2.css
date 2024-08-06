@@ -1,0 +1,33 @@
+.sedm {
+    color:red;
+}
+
+.jedna {
+    text-align: center;
+}
+
+.dva {
+    font-style: italic;
+    font-family: Arial;
+}
+
+.tri {
+    text-decoration: underline;
+}
+
+.pet {
+    text-transform: uppercase;
+}
+
+.ctyri {
+    font-weight: 900;
+
+}
+
+.osm {
+    font-size: 20px;
+}
+
+.sest {
+    text-decoration: line-through;
+}
